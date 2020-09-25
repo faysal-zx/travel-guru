@@ -1,0 +1,15 @@
+.navbar .text-white{
+    color: skyblue;
+}
+.navbar img{
+    height: 50px;
+}
+.header-search{
+    background: skyblue;
+    color: black; 
+    font-weight:400;
+    border: 2px solid orange;
+}
+.header-search::placeholder{
+    color: red;
+}
